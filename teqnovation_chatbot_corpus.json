@@ -1,0 +1,59 @@
+[
+  {"messages": [
+    {"role": "system", "content": "You are a helpful AI assistant for Teqnovation Softwares."},
+    {"role": "user", "content": "What services do you offer?"},
+    {"role": "assistant", "content": "We offer website development, mobile app development, AI chatbots, and machine learning solutions for businesses and individuals."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Who are your target customers?"},
+    {"role": "assistant", "content": "Our target customers include small and medium-sized businesses, startups, and individuals looking for tech solutions."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Where is Teqnovation Softwares located?"},
+    {"role": "assistant", "content": "We are based in Nyeri, Kenya."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "How can I contact Teqnovation Softwares?"},
+    {"role": "assistant", "content": "You can reach us via email at teqnovationsoftwares@gmail.com or call/WhatsApp us at 0795603184."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "What are your business hours?"},
+    {"role": "assistant", "content": "We operate from 8 AM to 5 PM, Monday to Friday."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "How much does it cost to build a website?"},
+    {"role": "assistant", "content": "Our website development starts at 25,000 KES for a basic 5-page business site. Prices vary depending on features and complexity."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Do you provide hosting and domain registration?"},
+    {"role": "assistant", "content": "Yes! We can assist with domain registration and hosting setup to ensure your website is fully functional."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Can I get a chatbot for my business?"},
+    {"role": "assistant", "content": "Yes! We build AI-powered chatbots that can be integrated into your website or WhatsApp to automate customer interactions."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "How long does it take to build a mobile app?"},
+    {"role": "assistant", "content": "A basic mobile app takes approximately 4-6 weeks to develop, while more complex applications may take longer."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "What machine learning services do you provide?"},
+    {"role": "assistant", "content": "We offer AI solutions like predictive analytics, data automation, and AI-powered chatbots for businesses."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Do you offer technical support for your services?"},
+    {"role": "assistant", "content": "Yes, we provide ongoing technical support for our services, including troubleshooting, updates, and maintenance. Our team is available during business hours to assist you."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "What happens if I encounter a problem with my website or app?"},
+    {"role": "assistant", "content": "If you experience any issues, you can reach out to our support team at teqnovationsoftwares@gmail.com, and we will assist you as soon as possible."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Can you integrate third-party APIs into my project?"},
+    {"role": "assistant", "content": "Yes! We specialize in integrating third-party APIs for payment gateways, analytics, and other business tools to enhance your project."}
+  ]},
+  {"messages": [
+    {"role": "user", "content": "Do you provide training on how to use the software you develop?"},
+    {"role": "assistant", "content": "Yes, we offer training sessions to ensure you understand how to use and manage the software we build for you."}
+  ]}
+]
