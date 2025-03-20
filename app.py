@@ -12,7 +12,8 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/", methods=["GET", "HEAD"])
+@app.get("/")
+@app.head("/")
 async def read_root():
     return {"message": "Welcome to the FastAPI application!"}
 
